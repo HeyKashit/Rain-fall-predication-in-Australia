@@ -2,7 +2,7 @@ import pickle
 import streamlit as st
 import pandas as pd
 
-model=pickle.load(open('Rain-fall-predication-in-Australia-main/Finalmodel.sav','rb'))
+model=pickle.load(open('Finalmodel..pkl','rb'))
 
 def home():
     return 'Welcome'
