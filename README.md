@@ -1,4 +1,4 @@
-# Rain-fall-predication-in-Australia
+# Rain-fall-predication-in-Australia.
 Rain Fall Prediction using Machine Learning.
 Deployed link = https://rain-fall-in-australia-predict.herokuapp.com/
 
